@@ -4,6 +4,28 @@
 
 ![Status](https://img.shields.io/badge/-Completed-34A853?style=flat&label=Project&labelColor=23555555)
 
+## Executive Summary
+ExtraLearn, an innovative EdTech startup, faces the challenge of efficiently managing a rapidly growing pool of leads in the competitive EdTech industry to improve conversion rates and optimize resource allocation. By leveraging machine learning models and data-driven insights, the project focuses on identifying high-potential leads, uncovering key conversion drivers, and optimizing resource allocation to enhance business outcomes.
+
+- **Model Performance**: The Random Forest model delivered the best balance between precision (66.1%) and recall (88.4%), effectively identifying high-potential leads while managing resource efficiency.
+- **Key Conversion Drivers**: Time spent on the website and initial interaction through the website emerged as the most significant predictors across all models. Other influential factors included profile completion level, recent activity, and lead age.
+
+**Key Outcomes**
+- **Best Model**: Random Forest, with recall (0.884) and accuracy (0.830), achieved the best balance for lead prioritization.
+- **Conversion Drivers**: Website engagement time, channel of initial interaction, level of profile completion, and lead demographics were the top predictors.
+- **Projected Impact**: Improved resource allocation is expected to reduce acquisition costs (CLP) and significantly boost conversion rate.
+
+**Business Impact**
+- **Enhanced Conversion**: Focused on high-potential leads to boost conversion rates.
+- **Optimized Strategies**: Tailored marketing and engagement based on actionable insights.
+
+**Actionable Recommendations**
+- **Improve Website Engagement**: Enhance user experience with interactive features like live chat and personalized recommendations.
+- **Promote Profile Completion**: Use gamification and incentives to encourage users to complete their profiles, boosting conversion rates.
+- **Focus on Effective Channels**: Prioritize website and email interactions while refining less efficient channels like print and digital media.
+- **Leverage Referral Programs**: Expand referral strategies to capitalize on their high conversion effectiveness (67.7%).
+- **Continuous Model Improvement**: Regularly update models to adapt to user behavior and ensure sustained performance.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -14,6 +36,7 @@
 - [Data Insights](#data-insights)
 - [Models’ Performance](#models-performance)
 - [Business Recommendations](#business-recommendations)
+- [Conclusion](#conclusion)
 - [Repository Structure](#repository-structure)
 - [Requirements](#requirements)
 - [Installation](#installation)
