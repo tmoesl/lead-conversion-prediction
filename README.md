@@ -20,11 +20,11 @@ ExtraLearn, an innovative EdTech startup, faces the challenge of efficiently man
 - **Optimized Strategies**: Tailored marketing and engagement based on actionable insights.
 
 **Actionable Recommendations**
-- **Improve Website Engagement**: Enhance user experience with interactive features like live chat and personalized recommendations.
-- **Promote Profile Completion**: Use gamification and incentives to encourage users to complete their profiles, boosting conversion rates.
-- **Focus on Effective Channels**: Prioritize website and email interactions while refining less efficient channels like print and digital media.
-- **Leverage Referral Programs**: Expand referral strategies to capitalize on their high conversion effectiveness (67.7%).
-- **Continuous Model Improvement**: Regularly update models to adapt to user behavior and ensure sustained performance.
+- **Boost Website Engagement**: Enhance user experience with interactive features (live chat, recommendations).
+- **Promote Profile Completion**: Use gamification and incentives to drive profile completion and conversions.
+- **Focus on Effective Channels**: Prioritize website and email interactions over less efficient channels.
+- **Leverage Referral Programs**: Expand referral strategies to capitalize on their high conversion rate (67.7%).
+- **Continuous Model Improvement**: Regularly update models to adapt to user behavior and maintain performance.
 
 ## Table of Contents
 
