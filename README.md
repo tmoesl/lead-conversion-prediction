@@ -160,7 +160,7 @@ This set of recommendations focuses on improving lead prioritization, refining u
     - **Encourage Sharing**: Use social media, email campaigns, and incentives to promote referrals across platforms.
     - **Track Success**: Monitor Lead Form Submissions from referrals to assess program effectiveness.
 6. **Continuous Model Improvement**
-    - **Maintain Performance**: Regularly update models to adapt to changing behaviors and refine lead strategies.
+    - **Maintain Performance**: Update model to adapt to changing behaviors and refine lead strategies.
     - **Align Design**: Tailor the model to meet business objectives and optimize resource allocation.
     - **Monitor ROI**: Keep Cost per Lead (CPL) in check to align with return on investment (ROI) objectives.
 
