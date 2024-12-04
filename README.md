@@ -24,7 +24,7 @@ ExtraLearn, an innovative EdTech startup, faces the challenge of efficiently man
 - **Promote Profile Completion**: Use gamification and incentives to drive profile completion and conversions.
 - **Focus on Effective Channels**: Prioritize website and email interactions over less efficient channels.
 - **Leverage Referral Programs**: Expand referral strategies to capitalize on their high conversion rate (67.7%).
-- **Continuous Model Improvement**: Regularly update models to adapt to user behavior and maintain performance.
+- **Update Model**: Adapt to changing user behavior to ensure sustained performance.
 
 ## Table of Contents
 
@@ -153,15 +153,15 @@ This set of recommendations focuses on improving lead prioritization, refining u
 4. **Targeted Marketing**
     - **Customize Campaigns**: Tailor marketing efforts for professionals and unemployed individuals using platforms like LinkedIn and professional networks to maximize relevance. Offer discounts, flexible payment plans, or course bundles to address lower conversion rates of students.
     - **Leverage Demographics**: Use demographic insights to develop resonant messaging for different audience segments.
-    - **Reallocate Resources**: Identify and shift resources from less efficient channels (print media, digital media, and educational platforms) to platforms with greater potential for high-quality leads and improved ROI.
-    - **Measure Impact**: Analyze traffic and engagement from targeted user segments using the Unique Visitors metric.
+    - **Reallocate Resources**: Identify and shift resources from less efficient channels (print, digital media, and educational platforms) to platforms with greater potential for high-quality leads and improved ROI.
+    - **Measure Impact**: Analyze traffic and engagement from targeted segments using the Unique Visitors metric.
 5. **Leverage Referral Programs**
     - **Expand Programs**: Capitalize on high conversion rates (67.7%) of referrals through broader outreach.
     - **Encourage Sharing**: Use social media, email campaigns, and incentives to promote referrals across platforms.
     - **Track Success**: Monitor Lead Form Submissions from referrals to assess program effectiveness.
 6. **Continuous Model Improvement**
     - **Maintain Performance**: Regularly update models to adapt to changing behaviors and refine lead strategies.
-    - **Support Business Goals**: Align model outputs with marketing and sales objectives to optimize resource allocation.
+    - **Align Design**: Tailor the model to meet business objectives and optimize resource allocation.
     - **Monitor ROI**: Keep Cost per Lead (CPL) in check to align with return on investment (ROI) objectives.
 
 ## Conclusion
