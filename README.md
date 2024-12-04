@@ -1,6 +1,6 @@
 ![EdTech Banner](references/lead_conversion_prediction_banner.png)
 
-# Product Recommendation System For Amazon
+# Lead Conversion Prediction for EdTech Startup
 
 ![Status](https://img.shields.io/badge/-Completed-34A853?style=flat&label=Project&labelColor=23555555)
 
@@ -9,7 +9,7 @@
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Key Business Metrics](#key-business-metrics)
-- [Exploratory Data Analysis and Visualization](#exploratory-data-analysis-and-visualization)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Machine Learning Models](#machine-learning-models)
 - [Data Insights](#data-insights)
 - [Models’ Performance](#models-performance)
@@ -28,6 +28,11 @@ The primary objective of this project is to develop a robust machine learning fr
 1. **Predict Lead Conversion**: Build machine learning models to estimate the likelihood of a lead converting into a paying customer, prioritizing high-potential leads.
 2. **Extract Actionable Insights**: Identify the key factors driving lead conversions to support data-driven decision-making.
 3. **Optimize Resource Allocation**: Design detailed lead profiles and strategies to streamline marketing and sales efforts effectively.
+
+**Machine Learning Models**
+1. **Logistic Regression**: Provides a probabilistic framework to predict lead conversion and identify key drivers.
+2. **Decision Tree**: Offers interpretable decision paths while capturing non-linear relationships in the data.
+3. **Random Forest**: Combines multiple decision trees for robust predictions and reduced overfitting.
 
 ## Key Business Metrics
 To evaluate model performance and align with business objectives, the following metrics are tracked:
@@ -52,28 +57,22 @@ To evaluate model performance and align with business objectives, the following 
 2. **Descriptive Statistics**: Analyzed lead demographics, engagement metrics, and conversion rates to identify patterns in user behavior and interactions.
 3. **Uni/Multivariate Analysis**: Explored individual features and their relationships to uncover key insights on lead conversion and engagement.
 
-## Machine Learning Models
-
-1. **Logistic Regression**: Provides a probabilistic framework to predict lead conversion and identify key drivers.
-2. **Decision Tree**: Offers interpretable decision paths while capturing non-linear relationships in the data.
-3. **Random Forest**: Combines multiple decision trees for robust predictions and reduced overfitting.
-
 ## Data Insights
 Data-driven insights offered a deeper understanding of lead characteristics to enhance targeted strategies and inform strategic decision-making in a competitive market.
 
-**Demographic Insights**
-- **Current Occupation**: Professionals lead with a 35.5% conversion rate, followed by unemployed individuals at 26.6%, and students at 11.7%. Tailored engagement strategies, particularly for students, can address varying expectations and behaviors.
-- **Age**: Converted leads are typically older, with a median age of 54 compared to 49 for non-converted leads, highlighting the potential of targeting older demographics. The overall age range is 18 to 63 years, with a median of 51.
+1. **Demographic Insights**
+    - **Current Occupation**: Professionals lead with a 35.5% conversion rate, followed by unemployed individuals at 26.6%, and students at 11.7%. Tailored engagement strategies, particularly for students, can address varying expectations and behaviors.
+    - **Age**: Converted leads are typically older, with a median age of 54 compared to 49 for non-converted leads, highlighting the potential of targeting older demographics. The overall age range is 18 to 63 years, with a median of 51.
 
-**Behavioral Engagement**
-- **Time Spent**: Converted leads spend significantly more time on the website (median: ~13 minutes) compared to non-converted leads (median: ~5 minutes), reinforcing the correlation between extended browsing and conversion likelihood.
-- **First Interaction**: Leads interacting through the website convert at 45.6%, far outperforming mobile app interactions (10.5%), underlining the website’s superior engagement potential.
-- **Last Activity**: Website-related activities drive the highest conversion rate at 38.5%, followed by email at 30.3%, while phone interactions trail at 21.3%. Prioritizing website engagement is key to enhancing conversions.
-- **Profile Completion**: Conversion rates increase with profile completion, from 7.5% (low completion) to 18.9% (medium) and 41.8% (high). Encouraging detailed profile completion presents a clear opportunity to boost conversion rates.
+2. **Behavioral Engagement**
+    - **Time Spent**: Converted leads spend significantly more time on the website (median: ~13 minutes) compared to non-converted leads (median: ~5 minutes), reinforcing the correlation between extended browsing and conversion likelihood.
+    - **First Interaction**: Leads interacting through the website convert at 45.6%, far outperforming mobile app interactions (10.5%), underlining the website’s superior engagement potential.
+    - **Last Activity**: Website-related activities drive the highest conversion rate at 38.5%, followed by email at 30.3%, while phone interactions trail at 21.3%. Prioritizing website engagement is key to enhancing conversions.
+    - **Profile Completion**: Conversion rates increase with profile completion, from 7.5% (low completion) to 18.9% (medium) and 41.8% (high). Encouraging detailed profile completion presents a clear opportunity to boost conversion rates.
 
-**Lead Channels**
-- **Referrals**: Despite their high conversation rate of 67.7%, referrals contribute minimally to total conversions, highlighting an underutilized opportunity. 
-- **Marketing Channels**: Print, digital media and educational channels perform modestly, with conversion rates between 28% and 33%.
+3. **Lead Channels**
+    - **Referrals**: Despite their high conversation rate of 67.7%, referrals contribute minimally to total conversions, highlighting an underutilized opportunity. 
+    - **Marketing Channels**: Print, digital media and educational channels perform modestly, with conversion rates between 28% and 33%.
 
 ## Models’ Performance
 
@@ -104,7 +103,9 @@ All machine learning models demonstrated strong performance in recall, effective
 
 ### Key Takeaways
 - ★ **Key Drivers of Conversion**: Across all models, website engagement time and the initial interaction through the website emerged as key predictors, highlighting the importance of sustained engagement and effective first touchpoints. Tree-based models also identified profile completion, recent activity, and age as significant factors in driving conversions.
+
 - 🏆 **Best Model**: The random forest model, with a recall of 0.884 and precision of 0.661, offers the best overall balance for lead prioritization, optimizing resource allocation with a lower false positive rate.
+
 - ⚠️ **Performance Trade-Off**: The decision tree, while offering higher recall (0.889), presents a higher false positive rate, making it less efficient for resource optimization compared to random forest.
 
 ## Business Recommendations
