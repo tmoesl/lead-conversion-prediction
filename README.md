@@ -114,36 +114,32 @@ All machine learning models demonstrated strong performance in recall, effective
 This set of recommendations focuses on improving lead prioritization, refining user interactions, and leveraging data-driven insights to maximize conversions and business outcomes.
 
 1. **Enhance Website Engagement**
-    - Improve user experience to encourage longer visits and more page views.
-    - Simplify navigation and ensure the website is mobile-responsive and fast-loading for seamless engagement.
-    - Introduce interactive features like live chat and personalized recommendations to boost engagement.
-    - Track pages per session and bounce rate to measure user engagement and identify areas for improvement.
-2. **Promote Profile Completion**
-    - Implement gamification, progress indicators, or incentives to motivate users to complete their profiles.
-    - Simplify the completion process by reducing required fields and providing clear guidance on its value.
-    - Highlight the benefits of a completed profile to improve participation rates.
-    - Measure success using lead form submissions to track profile completion progress.
-3. **Optimize Interaction Channels**
-    - Prioritize website and email interactions due to their higher conversion rates (38.5% and 30.3%).
-    - Enhance mobile app functionality and engagement strategies to increase its effectiveness.
-    - Focus phone-based outreach on personalized follow-ups for high-value leads.
-    - Monitor the qualified lead rate (MQLs) to evaluate channel effectiveness.
+    - **Improve User Experience**: Encourage longer visits and more page views.
+    - **Optimize Website Performance**: Simplify navigation and ensure mobile responsiveness and fast-loading pages for seamless engagement.
+    - **Introduce Interactive Features**: Implement live chat and personalized recommendations to boost engagement.
+    - **Track Engagement Metrics**: Use Pages per Session and Bounce Rate to measure user engagement and identify areas for improvement.
+2. **Optimize Interaction Channels**
+    - **Prioritize Website and Email**: Focus on interaction methods with higher conversion rates—website activities (38.5%) and email communications (30.3%). 
+    - **Enhance Mobile App**: Address low conversion rates (10.5%) by enhancing app functionality and engagement strategies.
+    - **Personalize Phone Outreach**: Reserve phone interactions for high-value leads to optimize resources.
+    - **Evaluate Channel Effectiveness**: Use Marketing Qualified Lead Rate (MQLs) to assess and refine strategies.
+3. **Promote Profile Completion**
+    - **Incentivize Completion**: Use gamification, progress indicators, or rewards to motivate users.
+    - **Simplify Process**: Reduce required fields and communicate how a complete profile enhances user experience.
+    - **Monitor Progress**: Track Lead Form Submissions to gauge profile completion rates.
 4. **Targeted Marketing**
-    - Customize campaigns for professionals and unemployed individuals using platforms like LinkedIn and professional networks.
-    - Address lower student conversion rates by offering discounts, flexible payment plans, or course bundles integrated with institutional curricula.
-    - Use demographic insights to craft messaging that resonates with specific segments.
-    - Prioritize channels with proven conversion potential, as print media and educational platforms showed minimal impact in both EDA and predictive modeling.
-    - Measure the impact of campaigns by analyzing traffic from targeted user segments using the unique visitors metric.
+    - **Customize Campaigns**: Tailor marketing efforts for professionals and unemployed individuals using platforms like LinkedIn and professional networks to maximize relevance. Offer discounts, flexible payment plans, or course bundles to address lower conversion rates of students.
+    - **Leverage Demographics**: Use demographic insights to develop resonant messaging for different audience segments.
+    - **Reallocate Resources**: Identify and shift resources from less efficient channels (print media, digital media, and educational platforms) to platforms with greater potential for high-quality leads and improved ROI.
+    - **Measure Impact**: Analyze traffic and engagement from targeted user segments using the Unique Visitors metric.
 5. **Leverage Referral Programs**
-    - Expand referral programs to capitalize on their high conversion effectiveness (67.7%) despite their limited contribution to overall conversions.
-    - Promote referrals through social media integration, personalized email campaigns, and attractive incentives.
-    - Enable seamless sharing of referral links via popular social platforms.
-    - Track referral success by monitoring lead form submissions attributed to referrals.
+    - **Expand Programs**: Capitalize on high conversion rates (67.7%) of referrals through broader outreach.
+    - **Encourage Sharing**: Use social media, email campaigns, and incentives to promote referrals across platforms.
+    - **Track Success**: Monitor Lead Form Submissions from referrals to assess program effectiveness.
 6. **Continuous Model Improvement**
-    - Regularly update and fine-tune predictive models to maintain high accuracy and adapt to changing user behaviors.
-    - Use feature importance insights to refine lead nurturing strategies.
-    - Align model outputs with marketing and sales goals to optimize resource allocation and maximize conversions.
-    - Monitor cost per lead (CPL) to ensure alignment with ROI objectives.
+    - **Maintain Performance**: Regularly update models to adapt to changing behaviors and refine lead strategies.
+    - **Support Business Goals**: Align model outputs with marketing and sales objectives to optimize resource allocation.
+    - **Monitor ROI**: Keep Cost per Lead (CPL) in check to align with return on investment (ROI) objectives.
 
 ## Repository Structure
 ```
