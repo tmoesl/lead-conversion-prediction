@@ -141,6 +141,10 @@ This set of recommendations focuses on improving lead prioritization, refining u
     - **Support Business Goals**: Align model outputs with marketing and sales objectives to optimize resource allocation.
     - **Monitor ROI**: Keep Cost per Lead (CPL) in check to align with return on investment (ROI) objectives.
 
+## Conclusion
+
+By leveraging machine learning models and data-driven insights, ExtraaLearn can effectively identify and prioritize high-potential leads, enhancing conversion rates and optimizing resource allocation. The random forest model, with its balanced performance, serves as a valuable tool for lead prioritization. Implementing the outlined recommendations will enable ExtraaLearn to improve engagement strategies, refine marketing efforts, and drive business growth in the competitive EdTech industry.
+
 ## Repository Structure
 ```
 ├── LICENSE            <- Project's open-source license details.
