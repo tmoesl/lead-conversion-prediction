@@ -1,4 +1,4 @@
-![EdTech Banner](references/lead_conversion_prediction_banner.png)
+[EdTech Banner](references/lead_conversion_prediction_banner.png)
 
 # Lead Conversion Prediction for EdTech Startup
 
@@ -7,13 +7,10 @@
 ## Executive Summary
 ExtraLearn, an innovative EdTech startup, faces the challenge of efficiently managing a rapidly growing pool of leads in the competitive EdTech industry to improve conversion rates and optimize resource allocation. By leveraging machine learning models and data-driven insights, the project focuses on identifying high-potential leads, uncovering key conversion drivers, and optimizing resource allocation to enhance business outcomes.
 
-- **Model Performance**: The Random Forest model delivered the best balance between precision (66.1%) and recall (88.4%), effectively identifying high-potential leads while managing resource efficiency.
-- **Key Conversion Drivers**: Time spent on the website and initial interaction through the website emerged as the most significant predictors across all models. Other influential factors included profile completion level, recent activity, and lead age.
-
 **Key Outcomes**
-- **Best Model**: Random Forest, with recall (0.884) and accuracy (0.830), achieved the best balance for lead prioritization.
-- **Conversion Drivers**: Website engagement time, channel of initial interaction, level of profile completion, and lead demographics were the top predictors.
-- **Projected Impact**: Improved resource allocation is expected to reduce acquisition costs (CLP) and significantly boost conversion rate.
+- **Best Model**: The Random Forest model achieved the best balance for lead prioritization and resource allocation, with precision at 0.661, recall at 0.884, and accuracy at 0.830%.
+- **Conversion Drivers**: Website engagement time and the channel of initial interaction were the most significant predictors, followed by profile completion level, recent activity, lead demographics, and lead age.
+- **Projected Impact**: Optimized resource allocation is expected to lower acquisition costs (CLP) and substantially boost conversion rates.
 
 **Business Impact**
 - **Enhanced Conversion**: Focused on high-potential leads to boost conversion rates.
