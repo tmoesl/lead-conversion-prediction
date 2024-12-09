@@ -1,4 +1,4 @@
-[EdTech Banner](references/lead_conversion_prediction_banner.png)
+![EdTech Banner](references/lead_conversion_prediction_banner.png)
 
 # Lead Conversion Prediction for EdTech Startup
 
