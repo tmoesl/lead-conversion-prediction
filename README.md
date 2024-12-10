@@ -8,7 +8,7 @@
 ExtraLearn, an innovative EdTech startup, faces the challenge of efficiently managing a rapidly growing pool of leads in the competitive EdTech industry to improve conversion rates and optimize resource allocation. By leveraging machine learning models and data-driven insights, the project focuses on identifying high-potential leads, uncovering key conversion drivers, and optimizing resource allocation to enhance business outcomes.
 
 **Key Outcomes**
-- **Best Model**: The Random Forest model achieved the best balance for lead prioritization and resource allocation, with precision at 0.661, recall at 0.884, and accuracy at 0.830%.
+- **Best Model**: The Random Forest model achieved the best balance for lead prioritization and resource allocation, with precision at 0.661, recall at 0.884, and accuracy at 0.830.
 - **Conversion Drivers**: Website engagement time and the channel of initial interaction were the most significant predictors, followed by profile completion level, recent activity, lead demographics, and lead age.
 - **Projected Impact**: Optimized resource allocation is expected to lower acquisition costs (CLP) and substantially boost conversion rates.
 
