@@ -5,6 +5,9 @@
 ![Status](https://img.shields.io/badge/-Completed-34A853?style=flat&label=Project&labelColor=23555555)
 
 ## Executive Summary
+
+🔗 **Links:** [Live Model](https://leads.dataproject.io "Access model for real-time lead inference") | [Deployment Repository](https://github.com/tmoesl/lcp-aws-ec2 "View end-to-end ML application hosted on AWS EC2")
+
 ExtraLearn, an innovative EdTech startup, faces the challenge of efficiently managing a rapidly growing pool of leads in the competitive EdTech industry to improve conversion rates and optimize resource allocation. By leveraging machine learning models and data-driven insights, the project focuses on identifying high-potential leads, uncovering key conversion drivers, and optimizing resource allocation to enhance business outcomes.
 
 **Key Outcomes**
