@@ -3,6 +3,8 @@
 # Lead Conversion Prediction for EdTech Startup
 
 ![Status](https://img.shields.io/badge/-Completed-34A853?style=flat&label=Project&labelColor=23555555)
+![Languages](https://img.shields.io/github/languages/count/tmoesl/lead-conversion-prediction?label=Languages)
+![Top Language](https://img.shields.io/github/languages/top/tmoesl/lead-conversion-prediction?color=white)
 
 ## Executive Summary
 
